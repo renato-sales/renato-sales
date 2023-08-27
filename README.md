@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá Pessoal!
 
-<!--
-**renato-sales/renato-sales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Renato Sales de Paula França e sou Back-end Developer desde 2020, atualmente estudo na Universidade Católica de Pernambuco - UNICAP e também sou aluno da Escola Cubos Academy. Atualmente, busco uma oportunidade de Back-end Developer.
 
-Here are some ideas to get you started:
+Para me encontrar:
+linkedin, instagram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hard Skills:
+Javascript, node.js, typescript, java
+
+
+
+Quem acredita sempre alcança seus objetivos!
